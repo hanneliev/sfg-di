@@ -1,0 +1,17 @@
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/PetService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/PrimaryGreetingService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/SetterInjectedController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/SfgDiApplication.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/MyController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/ConstructorGreetingService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/DogPetService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/ConstructorInjectedController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/I18NSpanishService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/I18nEnglishGreetingService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/I18nController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/PropertyInjectedController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/controllers/PetController.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/PropertyInjectedGreetingService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/SetterInjectedGreetingService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/CatPetService.java
+/home/hannelievh/Springboot_udemy/sfg-di-di-assignment/src/main/java/guru/springframework/sfgdi/services/GreetingService.java
